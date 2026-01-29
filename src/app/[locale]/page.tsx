@@ -20,6 +20,7 @@ function MainContent() {
       {/* HERO */}
       <section id="hero" className="py-24 px-4 bg-gradient-to-br from-blue-900 via-blue-800 to-slate-900 text-white">
         <div className="max-w-4xl mx-auto text-center">
+          <img src="/logo.png" alt="MAARS Logo" className="w-32 h-32 mx-auto mb-6 rounded-2xl" />
           <h1 className="text-5xl md:text-7xl font-black tracking-wider mb-4">MAARS</h1>
           <p className="text-xl md:text-2xl text-blue-200 mb-6">{t('hero.subtitle')}</p>
           <p className="text-lg text-blue-100/80 max-w-3xl mx-auto mb-10">{t('hero.description')}</p>
