@@ -103,3 +103,59 @@ a {
 .animate-slide-up {
   animation: slide-up 0.4s ease-out forwards;
 }
+
+/* Accessibility Features */
+
+/* High Contrast Mode */
+body.high-contrast {
+  background: #000 !important;
+  color: #facc15 !important;
+}
+
+body.high-contrast * {
+  background: #000 !important;
+  color: #facc15 !important;
+  border-color: #facc15 !important;
+}
+
+body.high-contrast a {
+  color: #60a5fa !important;
+  text-decoration: underline !important;
+}
+
+body.high-contrast button {
+  background: #facc15 !important;
+  color: #000 !important;
+}
+
+body.high-contrast img {
+  filter: grayscale(100%) contrast(1.2);
+}
+
+/* Exclude accessibility widget from high contrast */
+body.high-contrast [data-accessibility-widget="true"],
+body.high-contrast [data-accessibility-widget="true"] * {
+  background: initial !important;
+  color: initial !important;
+  border-color: initial !important;
+}
+
+/* Highlight Links */
+body.highlight-links a {
+  background-color: #fbbf24 !important;
+  color: #000 !important;
+  padding: 2px 4px;
+  border-radius: 2px;
+  text-decoration: underline !important;
+}
+
+/* Large Line Height */
+body.large-line-height {
+  line-height: 2 !important;
+}
+
+body.large-line-height p,
+body.large-line-height li,
+body.large-line-height span {
+  line-height: 2 !important;
+}

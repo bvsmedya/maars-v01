@@ -18,9 +18,6 @@ function MainContent() {
 
   return (
     <>
-      {/* HERO SLIDER */}
-      <HeroSlider />
-
       {/* ABOUT */}
       <section id="about" className="py-20 px-4 bg-white">
         <div className="max-w-4xl mx-auto">
@@ -151,6 +148,9 @@ function MainContent() {
           </a>
         </div>
       </section>
+
+      {/* HERO SLIDER - At Bottom for Academic Style */}
+      <HeroSlider />
     </>
   );
 }

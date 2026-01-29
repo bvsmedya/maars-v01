@@ -261,5 +261,21 @@
   "footer": {
     "rights": "Tous Droits Réservés",
     "tagline": "Système Moderne Avancé de Recherche Académique"
+  },
+  "accessibility": {
+    "title": "Accessibilité",
+    "voiceGuide": "Guide Vocal",
+    "fontSize": "Taille du Texte",
+    "lineHeight": "Hauteur de Ligne",
+    "contrast": "Contraste",
+    "highlightLinks": "Surligner les Liens",
+    "off": "Désactivé",
+    "on": "Activé",
+    "small": "Petit",
+    "normal": "Normal",
+    "large": "Grand",
+    "highContrast": "Contraste Élevé",
+    "reset": "Réinitialiser",
+    "shortcut": "pour basculer"
   }
 }

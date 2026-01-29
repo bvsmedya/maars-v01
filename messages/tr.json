@@ -261,5 +261,21 @@
   "footer": {
     "rights": "Tüm Hakları Saklıdır",
     "tagline": "Modern Akıllı Araştırma ve Rehberlik Sistemi"
+  },
+  "accessibility": {
+    "title": "Erişilebilirlik",
+    "voiceGuide": "Sesli Rehber",
+    "fontSize": "Yazı Boyutu",
+    "lineHeight": "Satır Aralığı",
+    "contrast": "Kontrast",
+    "highlightLinks": "Bağlantıları Vurgula",
+    "off": "Kapalı",
+    "on": "Açık",
+    "small": "Küçük",
+    "normal": "Normal",
+    "large": "Büyük",
+    "highContrast": "Yüksek Kontrast",
+    "reset": "Sıfırla",
+    "shortcut": "ile aç/kapat"
   }
 }

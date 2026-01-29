@@ -261,5 +261,21 @@
   "footer": {
     "rights": "All Rights Reserved",
     "tagline": "Modern Advanced Academic Research System"
+  },
+  "accessibility": {
+    "title": "Accessibility",
+    "voiceGuide": "Voice Guide",
+    "fontSize": "Font Size",
+    "lineHeight": "Line Height",
+    "contrast": "Contrast",
+    "highlightLinks": "Highlight Links",
+    "off": "Off",
+    "on": "On",
+    "small": "Small",
+    "normal": "Normal",
+    "large": "Large",
+    "highContrast": "High Contrast",
+    "reset": "Reset All",
+    "shortcut": "to toggle"
   }
 }
