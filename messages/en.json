@@ -1,11 +1,46 @@
 {
   "metadata": {
     "title": "MAARS",
-    "description": "Modern Smart Research and Guidance System"
+    "description": "Modern Advanced Academic Research System"
+  },
+  "slider": {
+    "mars": {
+      "title": "Welcome to MAARS",
+      "description": "Building the future of digital health technologies today."
+    },
+    "ishe": {
+      "title": "Project iShe (Ayşe)",
+      "description": "AI assistant supporting cognitive health of elderly individuals."
+    },
+    "ai": {
+      "title": "Artificial Intelligence & NLP",
+      "description": "Smart health solutions with natural language processing and large language models."
+    },
+    "terakki": {
+      "title": "Project TERAKKİ",
+      "description": "Personalized health tracking with wearable technologies."
+    },
+    "muasir": {
+      "title": "Project MUASIR",
+      "description": "Digital health kiosks and advanced imaging systems."
+    },
+    "research": {
+      "title": "Academic Research",
+      "description": "Interdisciplinary team from Turkey's leading universities."
+    },
+    "team": {
+      "title": "MAARS Team",
+      "description": "Academics designing the future of health technologies."
+    },
+    "ataturk": {
+      "title": "National Values",
+      "description": "Domestic and national solutions in line with Atatürk's principles."
+    }
   },
   "nav": {
     "home": "Home",
     "about": "What is MAARS?",
+    "vision": "Vision",
     "modules": "Modules",
     "programs": "Programs",
     "team": "Team",
@@ -13,8 +48,8 @@
   },
   "hero": {
     "title": "MAARS",
-    "subtitle": "Modern Smart Research and Guidance System",
-    "description": "MAARS is a working framework that aims to produce measurement, analysis, and guidance in health and society using artificial intelligence and data-driven methods. The goal is to simplify complex problems, support sound decisions, and develop applicable models.",
+    "subtitle": "Modern Advanced Academic Research System",
+    "description": "MAARS is a platform that develops digital health solutions to support individuals' social, cognitive, and physical health. With its innovative technologies and human-centered approach, it aims to improve public health and facilitate access to healthcare services.",
     "cta": {
       "about": "What is MAARS?",
       "modules": "Modules",
@@ -24,9 +59,34 @@
   },
   "about": {
     "title": "What is MAARS?",
-    "description1": "MAARS (Modern Smart Research and Guidance System) is an interdisciplinary approach. At the intersection of health, artificial intelligence, and public policy; it transforms data collection, evaluation, classification, and decision support processes into a systematic structure.",
-    "description2": "MAARS is not a \"single project\"; it is an overarching architecture that unifies different projects and field applications under the same methodological language.",
-    "keyMessage": "MAARS is a methodological and system architecture that aims to transfer the experience gained from completed projects (e.g., iShe) to new programs and pilot applications."
+    "description1": "MAARS (Modern Advanced Academic Research System) is an ecosystem that focuses on developing digital health solutions, combining innovative technologies with a human-centered approach. Its primary goal is to protect and strengthen the social, cognitive, and physical health of society.",
+    "description2": "MAARS is not a \"single project\"; it is an overarching architecture that unifies different projects and field applications under the same methodological language. The platform consists of three main projects: iShe, TERAKKİ, and MUASIR.",
+    "keyMessage": "MAARS is a methodological and system architecture that aims to transfer the experience gained from completed projects to new programs and pilot applications."
+  },
+  "vision": {
+    "title": "Mission and Vision",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To develop a national and sustainable system that improves individuals' quality of life by enabling digital transformation in healthcare services. To achieve transformation in healthcare through artificial intelligence and advanced technologies."
+    },
+    "visionContent": {
+      "title": "Our Vision",
+      "description": "To create an exemplary digital health model at national and international levels by ensuring Turkey's leadership in domestic and innovative health technologies."
+    },
+    "benefits": {
+      "individual": {
+        "title": "Individual Contribution",
+        "description": "Enabling people to instantly track their social, cognitive, and physical health, reducing loneliness and depressive symptoms, and providing early diagnosis opportunities."
+      },
+      "social": {
+        "title": "Social Benefit",
+        "description": "Reducing inequalities in access to healthcare services through the widespread adoption of digital health services."
+      },
+      "national": {
+        "title": "National Gain",
+        "description": "Development of domestic and innovative health technologies, increasing Turkey's competitiveness in the global arena."
+      }
+    }
   },
   "whatWeDo": {
     "title": "What Does MAARS Do?",
@@ -51,25 +111,37 @@
     }
   },
   "modules": {
-    "title": "Core Modules",
-    "subtitle": "Projects under MAARS",
+    "title": "Core Modules: iTM",
+    "subtitle": "Three fundamental projects of the MAARS platform",
     "items": {
       "ishe": {
-        "title": "Project iShe",
-        "badge": "TÜBİTAK - Completed",
-        "description": "iShe is a study conducted and completed under TÜBİTAK. Under the MAARS umbrella, it stands as a reference project demonstrating the field application of the measurement and guidance approach."
+        "title": "iShe (Ayşe)",
+        "fullName": "Innovative Health Memory Integration",
+        "badge": "TÜBİTAK 1002-A - Completed",
+        "description": "An NLP and LLM-based mobile application developed to increase social interactions of elderly individuals living alone, monitor their cognitive health, and reduce depressive symptoms. Conducted with Ege University Faculty of Medicine Geriatric Clinic.",
+        "features": ["Conversation-based AI assistant", "Daily cognitive assessments", "User-friendly interface", "Social support tools"]
       },
       "terakki": {
-        "title": "Project Terakki",
-        "badge": "Active",
-        "description": "Community-based development; produces guidance in education, awareness, and capacity building."
+        "title": "TERAKKİ",
+        "fullName": "Transportable Personalized Health Management",
+        "badge": "Planning Phase",
+        "description": "Collection of daily health data through wearable devices and continuous monitoring of individuals' health status. Tracking pulse, blood pressure, and oxygen saturation with smart watches, wristbands, and sensors.",
+        "features": ["Wearable technologies", "AI-powered analysis", "Personalized recommendations", "Instant notifications"]
       },
       "muasir": {
-        "title": "Project Muasır",
-        "badge": "Active",
-        "description": "Contemporary system reading: produces frameworks on topics such as technology, ethics, governance, and public design."
+        "title": "MUASIR",
+        "fullName": "Modern & Accessible Intelligent Health Reporting",
+        "badge": "Planning Phase",
+        "description": "Digital health cabins and advanced imaging systems to facilitate access to healthcare services and provide early diagnosis opportunities. AI-powered diagnosis and data analysis.",
+        "features": ["Digital health kiosks", "Advanced imaging technologies", "AI-powered diagnosis", "Automated reporting"]
       }
     }
+  },
+  "ayse": {
+    "title": "Meet: Ayşe",
+    "subtitle": "The Face of the iShe Project",
+    "description": "Ayşe is the symbol character of the iShe project. Designed as a digital health assistant for our elderly people over 65 who live alone. By chatting with Ayşe, you can take daily cognitive tests, increase your social interaction, and monitor your health status.",
+    "quote": "\"Technology exists not to leave our elderly alone, but to offer them a better life.\""
   },
   "programs": {
     "title": "Field Programs",
@@ -98,27 +170,27 @@
     "description": "The MAARS Academic Working Group is an interdisciplinary research team working primarily on artificial intelligence systems and application models.",
     "members": {
       "ozgur": {
-        "name": "Assoc. Prof. Özgür Akşan",
+        "name": "Assoc. Prof. Dr. Özgür Akşan",
         "title": "Founder"
       },
       "asli": {
-        "name": "Assoc. Prof. Aslı Kılavuz",
+        "name": "Assoc. Prof. Dr. Aslı Kılavuz",
         "title": "Researcher"
       },
       "feryal": {
-        "name": "Spec. Dr. Feryal Akşan, PhD",
+        "name": "Feryal Akşan, MD, PhD",
         "title": "Researcher"
       },
       "sebnem": {
-        "name": "Assoc. Prof. Şebnem Bora",
+        "name": "Assoc. Prof. Dr. Şebnem Bora",
         "title": "Researcher"
       },
       "yalcin": {
-        "name": "Prof. Yalçın Çebi",
+        "name": "Prof. Dr. Yalçın Çebi",
         "title": "Researcher"
       },
       "hilal": {
-        "name": "Prof. Mehmet Hilal Özcanhan",
+        "name": "Prof. Dr. Mehmet Hilal Özcanhan",
         "title": "Researcher"
       }
     }
@@ -154,23 +226,23 @@
     "items": {
       "q1": {
         "question": "Is MAARS an institution or a project?",
-        "answer": "MAARS is an overarching system approach that unifies multiple projects and programs under the same methodological framework."
+        "answer": "MAARS is an overarching digital health ecosystem that unifies multiple projects and programs under the same methodological framework."
       },
       "q2": {
-        "question": "What are iShe / Terakki / Muasır?",
-        "answer": "They are core modules of MAARS. Each focuses on a different need and provides \"methodology\" support to field programs."
+        "question": "What are iShe / TERAKKİ / MUASIR?",
+        "answer": "They are core modules of MAARS (iTM). iShe focuses on cognitive health of elderly individuals, TERAKKİ on health tracking with wearable devices, and MUASIR on digital health kiosks and early diagnosis."
       },
       "q3": {
-        "question": "Is iShe finished?",
-        "answer": "Yes. iShe is a project conducted and completed under TÜBİTAK. It exists within MAARS as a \"completed reference study\" and provides methodological foundation for new programs."
+        "question": "Is iShe (Ayşe) finished?",
+        "answer": "Yes. iShe is a project conducted and completed under TÜBİTAK 1002-A (324S300). The Ayşe character is the symbol of this project."
       },
       "q4": {
-        "question": "What do field programs mean?",
-        "answer": "They are pilot/implementation areas for applying the MAARS approach in different cities and scenarios."
+        "question": "Who is Ayşe?",
+        "answer": "Ayşe is the conversation-based AI assistant of the iShe project. Designed to increase social interactions of elderly individuals living alone and monitor their cognitive health."
       },
       "q5": {
         "question": "Who do you collaborate with?",
-        "answer": "Pilot studies and research partnerships are targeted with academic institutions, local governments, health institutions, and technology teams."
+        "answer": "Pilot studies and research partnerships are targeted with academic institutions (Ege University, Dokuz Eylül University, etc.), local governments, health institutions, and technology teams."
       }
     }
   },
@@ -188,6 +260,6 @@
   },
   "footer": {
     "rights": "All Rights Reserved",
-    "tagline": "Modern Smart Research and Guidance System"
+    "tagline": "Modern Advanced Academic Research System"
   }
 }

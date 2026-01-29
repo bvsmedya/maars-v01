@@ -10,8 +10,7 @@ export default function Footer() {
     <footer className="bg-gray-900 text-white">
       <div className="max-w-5xl mx-auto px-4 py-12">
         <div className="text-center">
-          <img src="/logo.png" alt="MAARS Logo" className="w-16 h-16 mx-auto mb-4 rounded-xl" />
-          <h3 className="text-3xl font-black tracking-wider mb-2">MAARS</h3>
+          <img src="/images/MAARS - footer.png" alt="MAARS" className="h-12 mx-auto mb-6" />
           <p className="text-gray-400 text-sm mb-8">{t('tagline')}</p>
 
           <div className="flex justify-center gap-6 mb-8">

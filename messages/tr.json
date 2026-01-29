@@ -3,9 +3,44 @@
     "title": "MAARS",
     "description": "Modern Akıllı Araştırma ve Rehberlik Sistemi"
   },
+  "slider": {
+    "mars": {
+      "title": "MAARS'a Hoş Geldiniz",
+      "description": "Dijital sağlık teknolojilerinde geleceği bugünden inşa ediyoruz."
+    },
+    "ishe": {
+      "title": "Proje iShe (Ayşe)",
+      "description": "Yaşlı bireylerin bilişsel sağlığını destekleyen yapay zeka asistanı."
+    },
+    "ai": {
+      "title": "Yapay Zeka & NLP",
+      "description": "Doğal dil işleme ve büyük dil modelleri ile akıllı sağlık çözümleri."
+    },
+    "terakki": {
+      "title": "Proje TERAKKİ",
+      "description": "Giyilebilir teknolojilerle kişiselleştirilmiş sağlık takibi."
+    },
+    "muasir": {
+      "title": "Proje MUASIR",
+      "description": "Dijital sağlık kabinleri ve ileri görüntüleme sistemleri."
+    },
+    "research": {
+      "title": "Akademik Araştırma",
+      "description": "Türkiye'nin önde gelen üniversitelerinden disiplinler arası ekip."
+    },
+    "team": {
+      "title": "MAARS Ekibi",
+      "description": "Geleceğin sağlık teknolojilerini tasarlayan akademisyenler."
+    },
+    "ataturk": {
+      "title": "Milli Değerler",
+      "description": "Atatürk ilkeleri doğrultusunda yerli ve milli çözümler."
+    }
+  },
   "nav": {
     "home": "Ana Sayfa",
     "about": "MAARS Nedir?",
+    "vision": "Vizyon",
     "modules": "Modüller",
     "programs": "Programlar",
     "team": "Ekip",
@@ -14,7 +49,7 @@
   "hero": {
     "title": "MAARS",
     "subtitle": "Modern Akıllı Araştırma ve Rehberlik Sistemi",
-    "description": "MAARS, yapay zekâ ve veri temelli yöntemlerle sağlık ve toplum alanında ölçüm, analiz ve rehberlik üretmeyi hedefleyen bir çalışma çerçevesidir. Amaç; karmaşık problemleri sadeleştirmek, doğru kararları desteklemek ve uygulanabilir modeller geliştirmektir.",
+    "description": "MAARS, bireylerin sosyal, bilişsel ve fiziksel sağlıklarını desteklemek için dijital sağlık çözümleri geliştiren bir platformdur. Yenilikçi teknolojileri ve insan odaklı yaklaşımıyla, toplum sağlığını artırmayı ve sağlık hizmetlerine erişimi kolaylaştırmayı hedefler.",
     "cta": {
       "about": "MAARS Nedir?",
       "modules": "Modüller",
@@ -24,9 +59,34 @@
   },
   "about": {
     "title": "MAARS Nedir?",
-    "description1": "MAARS (Modern Akıllı Araştırma ve Rehberlik Sistemi), disiplinler arası bir yaklaşımın adıdır. Sağlık, yapay zekâ ve kamu politikası kesişiminde; veri toplama, değerlendirme, sınıflandırma ve karar destek süreçlerini sistemli bir yapıya dönüştürür.",
-    "description2": "MAARS bir \"tek proje\" değil; farklı projeleri ve saha uygulamalarını aynı yöntem dili altında birleştiren üst bir mimaridir.",
-    "keyMessage": "MAARS, tamamlanmış projelerden (ör. iShe) elde edilen deneyimi, yeni programlara ve pilot uygulamalara taşımayı hedefleyen bir yöntem ve sistem mimarisidir."
+    "description1": "MAARS (Modern Akıllı Araştırma ve Rehberlik Sistemi), dijital sağlık çözümleri geliştirmeye odaklanan, yenilikçi teknolojileri ve insan odaklı yaklaşımı birleştiren bir ekosistemdir. Temel hedefi, toplumun sosyal, bilişsel ve fiziksel sağlığını korumak ve güçlendirmektir.",
+    "description2": "MAARS bir \"tek proje\" değil; farklı projeleri ve saha uygulamalarını aynı yöntem dili altında birleştiren üst bir mimaridir. Platform, üç ana projeden oluşur: iShe, TERAKKİ ve MUASIR.",
+    "keyMessage": "MAARS, tamamlanmış projelerden elde edilen deneyimi, yeni programlara ve pilot uygulamalara taşımayı hedefleyen bir yöntem ve sistem mimarisidir."
+  },
+  "vision": {
+    "title": "Misyon ve Vizyon",
+    "mission": {
+      "title": "Misyonumuz",
+      "description": "Sağlık hizmetlerinde dijital dönüşümü sağlayarak bireylerin yaşam kalitesini yükselten milli ve sürdürülebilir bir sistem geliştirmek. Yapay zeka ve ileri teknolojiler ile sağlık hizmetlerinde dönüşümü sağlamak."
+    },
+    "visionContent": {
+      "title": "Vizyonumuz",
+      "description": "Türkiye'nin yerli ve yenilikçi sağlık teknolojilerinde lider olmasını sağlayarak, ulusal ve uluslararası ölçekte örnek bir dijital sağlık modeli oluşturmak."
+    },
+    "benefits": {
+      "individual": {
+        "title": "Bireysel Katkı",
+        "description": "Kişilerin sosyal, bilişsel ve fiziksel sağlıklarını anlık olarak takip edebilmesi, yalnızlık ve depresif semptomların azalması, erken teşhis imkânı."
+      },
+      "social": {
+        "title": "Toplumsal Fayda",
+        "description": "Dijital sağlık hizmetlerinin yaygınlaşmasıyla sağlık hizmetine erişimdeki eşitsizliklerin azaltılması."
+      },
+      "national": {
+        "title": "Ulusal Kazanç",
+        "description": "Yerli ve yenilikçi sağlık teknolojilerinin gelişimi, Türkiye'nin global arenada rekabet gücünün artması."
+      }
+    }
   },
   "whatWeDo": {
     "title": "MAARS Ne Yapar?",
@@ -51,25 +111,37 @@
     }
   },
   "modules": {
-    "title": "Çekirdek Modüller",
-    "subtitle": "MAARS'a bağlı projeler",
+    "title": "Çekirdek Modüller: iTM",
+    "subtitle": "MAARS platformunun üç temel projesi",
     "items": {
       "ishe": {
-        "title": "Project iShe",
-        "badge": "TÜBİTAK - Tamamlandı",
-        "description": "iShe, TÜBİTAK kapsamında yürütülmüş ve tamamlanmış bir çalışmadır. MAARS çatısı altında, ölçüm ve rehberlik yaklaşımının saha karşılığını gösteren bir referans proje olarak konumlanır."
+        "title": "iShe (Ayşe)",
+        "fullName": "İleri Sağlık Hafıza Entegrasyonu",
+        "badge": "TÜBİTAK 1002-A - Tamamlandı",
+        "description": "Yalnız yaşayan yaşlı bireylerin sosyal etkileşimlerini artırmak, bilişsel sağlıklarını izlemek ve depresif semptomlarını azaltmak amacıyla geliştirilen NLP ve LLM tabanlı mobil uygulama. Ege Üniversitesi Tıp Fakültesi Geriatri Polikliniği ile yürütülmüştür.",
+        "features": ["Konuşma tabanlı yapay zeka asistanı", "Günlük bilişsel değerlendirmeler", "Kullanıcı dostu arayüz", "Sosyal destek araçları"]
       },
       "terakki": {
-        "title": "Project Terakki",
-        "badge": "Aktif",
-        "description": "Toplum temelli gelişim; eğitim, farkındalık ve kapasite artırma ekseninde rehberlik üretir."
+        "title": "TERAKKİ",
+        "fullName": "Taşınabilir Kişiselleştirilmiş Sağlık Yönetimi",
+        "badge": "Planlama Aşamasında",
+        "description": "Giyilebilir cihazlar üzerinden günlük sağlık verilerinin toplanması ve bireylerin sağlık durumlarının sürekli izlenmesi. Akıllı saatler, bileklikler ve sensörler ile nabız, kan basıncı, oksijen satürasyonu takibi.",
+        "features": ["Giyilebilir teknolojiler", "Yapay zeka destekli analiz", "Kişiselleştirilmiş öneriler", "Anlık bildirimler"]
       },
       "muasir": {
-        "title": "Project Muasır",
-        "badge": "Aktif",
-        "description": "Çağdaş sistem okuması: teknoloji, etik, yönetişim ve kamu tasarımı gibi başlıklarda çerçeve üretir."
+        "title": "MUASIR",
+        "fullName": "Modern Ulaşılabilir Akıllı Sağlık Raporlaması",
+        "badge": "Planlama Aşamasında",
+        "description": "Sağlık hizmetlerine erişimi kolaylaştırmak ve erken teşhis fırsatı sunmak için dijital sağlık kabinleri ve ileri görüntüleme sistemleri. Yapay zeka destekli teşhis ve veri analizi.",
+        "features": ["Dijital sağlık kabinleri", "İleri görüntüleme teknolojileri", "Yapay zeka destekli teşhis", "Otomatik raporlama"]
       }
     }
+  },
+  "ayse": {
+    "title": "Tanışın: Ayşe",
+    "subtitle": "iShe Projesinin Yüzü",
+    "description": "Ayşe, iShe projesinin sembol karakteridir. 65 yaş üstü, yalnız yaşayan yaşlılarımızın dijital sağlık asistanı olarak tasarlanmıştır. Ayşe ile sohbet ederek günlük bilişsel testler yapabilir, sosyal etkileşiminizi artırabilir ve sağlık durumunuzu takip edebilirsiniz.",
+    "quote": "\"Teknoloji yaşlılarımızı yalnız bırakmak için değil, onlara daha iyi bir hayat sunmak için var.\""
   },
   "programs": {
     "title": "Saha Programları",
@@ -154,23 +226,23 @@
     "items": {
       "q1": {
         "question": "MAARS bir kurum mu, proje mi?",
-        "answer": "MAARS, birden fazla projeyi ve programı aynı yöntem çerçevesinde birleştiren üst bir sistem yaklaşımıdır."
+        "answer": "MAARS, birden fazla projeyi ve programı aynı yöntem çerçevesinde birleştiren üst bir dijital sağlık ekosistemidir."
       },
       "q2": {
-        "question": "iShe / Terakki / Muasır ne?",
-        "answer": "MAARS'ın çekirdek modülleridir. Her biri farklı bir ihtiyaca odaklanır ve saha programlarına \"yöntem\" desteği verir."
+        "question": "iShe / TERAKKİ / MUASIR ne?",
+        "answer": "MAARS'ın çekirdek modülleridir (iTM). iShe yaşlı bireylerin bilişsel sağlığına, TERAKKİ giyilebilir cihazlarla sağlık takibine, MUASIR ise dijital sağlık kabinleri ve erken teşhise odaklanır."
       },
       "q3": {
-        "question": "iShe bitti mi?",
-        "answer": "Evet. iShe, TÜBİTAK kapsamında yürütülmüş ve tamamlanmış bir projedir. MAARS içinde \"tamamlanmış referans çalışma\" olarak yer alır ve yeni programlara yöntemsel zemin sağlar."
+        "question": "iShe (Ayşe) bitti mi?",
+        "answer": "Evet. iShe, TÜBİTAK 1002-A (324S300) kapsamında yürütülmüş ve tamamlanmış bir projedir. Ayşe karakteri bu projenin sembolüdür."
       },
       "q4": {
-        "question": "Saha programları ne anlama geliyor?",
-        "answer": "MAARS'ın geliştirdiği yaklaşımın farklı şehir ve senaryolarda uygulanmasına yönelik pilot/uygulama alanlarıdır."
+        "question": "Ayşe kimdir?",
+        "answer": "Ayşe, iShe projesinin konuşma tabanlı yapay zeka asistanıdır. Yalnız yaşayan yaşlı bireylerin sosyal etkileşimlerini artırmak ve bilişsel sağlıklarını izlemek için tasarlanmıştır."
       },
       "q5": {
         "question": "Kimlerle iş birliği yapılır?",
-        "answer": "Akademik kurumlar, yerel yönetimler, sağlık kurumları ve teknoloji ekipleriyle pilot çalışma ve araştırma ortaklıkları hedeflenir."
+        "answer": "Akademik kurumlar (Ege Üniversitesi, Dokuz Eylül Üniversitesi vb.), yerel yönetimler, sağlık kurumları ve teknoloji ekipleriyle pilot çalışma ve araştırma ortaklıkları hedeflenir."
       }
     }
   },

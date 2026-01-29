@@ -8,8 +8,36 @@ import Footer from '@/components/Footer';
 import '../globals.css';
 
 export const metadata: Metadata = {
-  title: 'MAARS',
-  description: 'Modern Akıllı Araştırma ve Rehberlik Sistemi',
+  title: 'MAARS - Modern Akıllı Araştırma ve Rehberlik Sistemi',
+  description: 'MAARS, bireylerin sosyal, bilişsel ve fiziksel sağlıklarını desteklemek için dijital sağlık çözümleri geliştiren bir platformdur. iShe, TERAKKİ ve MUASIR projelerinden oluşur.',
+  keywords: ['MAARS', 'dijital sağlık', 'iShe', 'Ayşe', 'TERAKKİ', 'MUASIR', 'yapay zeka', 'TÜBİTAK', 'yaşlı sağlığı', 'bilişsel sağlık'],
+  authors: [{ name: 'MAARS' }],
+  openGraph: {
+    title: 'MAARS - Modern Advanced Academic Research System',
+    description: 'MAARS is a platform that develops digital health solutions to support social, cognitive, and physical health. Featuring iShe, TERAKKİ, and MUASIR projects.',
+    url: 'https://maars.tr',
+    siteName: 'MAARS',
+    images: [
+      {
+        url: 'https://maars.tr/og-image.png',
+        width: 1200,
+        height: 630,
+        alt: 'MAARS - Modern Advanced Academic Research System',
+      },
+    ],
+    locale: 'tr_TR',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'MAARS - Modern Advanced Academic Research System',
+    description: 'Digital health platform featuring iShe (Ayşe) AI assistant for elderly care, TERAKKİ wearables, and MUASIR health kiosks.',
+    images: ['https://maars.tr/og-image.png'],
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 type Props = {

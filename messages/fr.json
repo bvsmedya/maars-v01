@@ -1,11 +1,46 @@
 {
   "metadata": {
     "title": "MAARS",
-    "description": "Système Moderne Intelligent de Recherche et d'Orientation"
+    "description": "Système Moderne Avancé de Recherche Académique"
+  },
+  "slider": {
+    "mars": {
+      "title": "Bienvenue chez MAARS",
+      "description": "Construire l'avenir des technologies de santé numérique aujourd'hui."
+    },
+    "ishe": {
+      "title": "Projet iShe (Ayşe)",
+      "description": "Assistant IA soutenant la santé cognitive des personnes âgées."
+    },
+    "ai": {
+      "title": "Intelligence Artificielle & NLP",
+      "description": "Solutions de santé intelligentes avec traitement du langage naturel et grands modèles de langage."
+    },
+    "terakki": {
+      "title": "Projet TERAKKİ",
+      "description": "Suivi de santé personnalisé avec technologies portables."
+    },
+    "muasir": {
+      "title": "Projet MUASIR",
+      "description": "Kiosques de santé numériques et systèmes d'imagerie avancés."
+    },
+    "research": {
+      "title": "Recherche Académique",
+      "description": "Équipe interdisciplinaire des principales universités de Turquie."
+    },
+    "team": {
+      "title": "Équipe MAARS",
+      "description": "Académiciens concevant l'avenir des technologies de santé."
+    },
+    "ataturk": {
+      "title": "Valeurs Nationales",
+      "description": "Solutions domestiques et nationales conformes aux principes d'Atatürk."
+    }
   },
   "nav": {
     "home": "Accueil",
     "about": "Qu'est-ce que MAARS?",
+    "vision": "Vision",
     "modules": "Modules",
     "programs": "Programmes",
     "team": "Équipe",
@@ -13,8 +48,8 @@
   },
   "hero": {
     "title": "MAARS",
-    "subtitle": "Système Moderne Intelligent de Recherche et d'Orientation",
-    "description": "MAARS est un cadre de travail visant à produire des mesures, analyses et orientations dans les domaines de la santé et de la société en utilisant l'intelligence artificielle et des méthodes basées sur les données. L'objectif est de simplifier les problèmes complexes, de soutenir les bonnes décisions et de développer des modèles applicables.",
+    "subtitle": "Système Moderne Avancé de Recherche Académique",
+    "description": "MAARS est une plateforme qui développe des solutions de santé numérique pour soutenir la santé sociale, cognitive et physique des individus. Avec ses technologies innovantes et son approche centrée sur l'humain, elle vise à améliorer la santé publique et à faciliter l'accès aux services de santé.",
     "cta": {
       "about": "Qu'est-ce que MAARS?",
       "modules": "Modules",
@@ -24,9 +59,34 @@
   },
   "about": {
     "title": "Qu'est-ce que MAARS?",
-    "description1": "MAARS (Système Moderne Intelligent de Recherche et d'Orientation) est une approche interdisciplinaire. À l'intersection de la santé, de l'intelligence artificielle et des politiques publiques; il transforme les processus de collecte de données, d'évaluation, de classification et d'aide à la décision en une structure systématique.",
-    "description2": "MAARS n'est pas un \"projet unique\"; c'est une architecture globale qui unifie différents projets et applications de terrain sous le même langage méthodologique.",
-    "keyMessage": "MAARS est une architecture méthodologique et systémique qui vise à transférer l'expérience acquise des projets terminés (ex. iShe) vers de nouveaux programmes et applications pilotes."
+    "description1": "MAARS (Système Moderne Avancé de Recherche Académique) est un écosystème axé sur le développement de solutions de santé numérique, combinant des technologies innovantes avec une approche centrée sur l'humain. Son objectif principal est de protéger et de renforcer la santé sociale, cognitive et physique de la société.",
+    "description2": "MAARS n'est pas un \"projet unique\"; c'est une architecture globale qui unifie différents projets et applications de terrain sous le même langage méthodologique. La plateforme se compose de trois projets principaux: iShe, TERAKKİ et MUASIR.",
+    "keyMessage": "MAARS est une architecture méthodologique et systémique qui vise à transférer l'expérience acquise des projets terminés vers de nouveaux programmes et applications pilotes."
+  },
+  "vision": {
+    "title": "Mission et Vision",
+    "mission": {
+      "title": "Notre Mission",
+      "description": "Développer un système national et durable qui améliore la qualité de vie des individus en permettant la transformation numérique des services de santé. Réaliser la transformation des soins de santé grâce à l'intelligence artificielle et aux technologies avancées."
+    },
+    "visionContent": {
+      "title": "Notre Vision",
+      "description": "Créer un modèle de santé numérique exemplaire aux niveaux national et international en assurant le leadership de la Turquie dans les technologies de santé domestiques et innovantes."
+    },
+    "benefits": {
+      "individual": {
+        "title": "Contribution Individuelle",
+        "description": "Permettre aux personnes de suivre instantanément leur santé sociale, cognitive et physique, réduire la solitude et les symptômes dépressifs, et offrir des opportunités de diagnostic précoce."
+      },
+      "social": {
+        "title": "Bénéfice Social",
+        "description": "Réduire les inégalités d'accès aux services de santé grâce à l'adoption généralisée des services de santé numérique."
+      },
+      "national": {
+        "title": "Gain National",
+        "description": "Développement des technologies de santé domestiques et innovantes, augmentation de la compétitivité de la Turquie sur la scène mondiale."
+      }
+    }
   },
   "whatWeDo": {
     "title": "Que fait MAARS?",
@@ -51,25 +111,37 @@
     }
   },
   "modules": {
-    "title": "Modules Principaux",
-    "subtitle": "Projets sous MAARS",
+    "title": "Modules Principaux: iTM",
+    "subtitle": "Trois projets fondamentaux de la plateforme MAARS",
     "items": {
       "ishe": {
-        "title": "Project iShe",
-        "badge": "TÜBİTAK - Terminé",
-        "description": "iShe est une étude menée et terminée sous TÜBİTAK. Sous l'égide de MAARS, il se positionne comme un projet de référence démontrant l'application terrain de l'approche de mesure et d'orientation."
+        "title": "iShe (Ayşe)",
+        "fullName": "Intégration Innovante de la Mémoire de Santé",
+        "badge": "TÜBİTAK 1002-A - Terminé",
+        "description": "Une application mobile basée sur NLP et LLM développée pour augmenter les interactions sociales des personnes âgées vivant seules, surveiller leur santé cognitive et réduire les symptômes dépressifs. Réalisé avec la Clinique Gériatrique de la Faculté de Médecine de l'Université Ege.",
+        "features": ["Assistant IA conversationnel", "Évaluations cognitives quotidiennes", "Interface conviviale", "Outils de soutien social"]
       },
       "terakki": {
-        "title": "Project Terakki",
-        "badge": "Actif",
-        "description": "Développement communautaire; produit des orientations en éducation, sensibilisation et renforcement des capacités."
+        "title": "TERAKKİ",
+        "fullName": "Gestion Personnalisée de la Santé Transportable",
+        "badge": "Phase de Planification",
+        "description": "Collecte de données de santé quotidiennes via des appareils portables et surveillance continue de l'état de santé des individus. Suivi du pouls, de la pression artérielle et de la saturation en oxygène avec des montres intelligentes, des bracelets et des capteurs.",
+        "features": ["Technologies portables", "Analyse alimentée par l'IA", "Recommandations personnalisées", "Notifications instantanées"]
       },
       "muasir": {
-        "title": "Project Muasır",
-        "badge": "Actif",
-        "description": "Lecture des systèmes contemporains: produit des cadres sur des sujets tels que la technologie, l'éthique, la gouvernance et la conception publique."
+        "title": "MUASIR",
+        "fullName": "Rapport de Santé Intelligent Moderne et Accessible",
+        "badge": "Phase de Planification",
+        "description": "Cabines de santé numériques et systèmes d'imagerie avancés pour faciliter l'accès aux services de santé et offrir des opportunités de diagnostic précoce. Diagnostic et analyse de données alimentés par l'IA.",
+        "features": ["Kiosques de santé numériques", "Technologies d'imagerie avancées", "Diagnostic alimenté par l'IA", "Rapports automatisés"]
       }
     }
+  },
+  "ayse": {
+    "title": "Rencontrez: Ayşe",
+    "subtitle": "Le Visage du Projet iShe",
+    "description": "Ayşe est le personnage symbolique du projet iShe. Conçue comme un assistant de santé numérique pour nos personnes âgées de plus de 65 ans vivant seules. En discutant avec Ayşe, vous pouvez effectuer des tests cognitifs quotidiens, augmenter votre interaction sociale et surveiller votre état de santé.",
+    "quote": "\"La technologie n'existe pas pour laisser nos aînés seuls, mais pour leur offrir une meilleure vie.\""
   },
   "programs": {
     "title": "Programmes de Terrain",
@@ -154,23 +226,23 @@
     "items": {
       "q1": {
         "question": "MAARS est-il une institution ou un projet?",
-        "answer": "MAARS est une approche système globale qui unifie plusieurs projets et programmes sous le même cadre méthodologique."
+        "answer": "MAARS est un écosystème de santé numérique global qui unifie plusieurs projets et programmes sous le même cadre méthodologique."
       },
       "q2": {
-        "question": "Que sont iShe / Terakki / Muasır?",
-        "answer": "Ce sont les modules principaux de MAARS. Chacun se concentre sur un besoin différent et fournit un soutien \"méthodologique\" aux programmes de terrain."
+        "question": "Que sont iShe / TERAKKİ / MUASIR?",
+        "answer": "Ce sont les modules principaux de MAARS (iTM). iShe se concentre sur la santé cognitive des personnes âgées, TERAKKİ sur le suivi de la santé avec des appareils portables, et MUASIR sur les kiosques de santé numériques et le diagnostic précoce."
       },
       "q3": {
-        "question": "iShe est-il terminé?",
-        "answer": "Oui. iShe est un projet mené et terminé sous TÜBİTAK. Il existe au sein de MAARS comme une \"étude de référence terminée\" et fournit une base méthodologique pour les nouveaux programmes."
+        "question": "iShe (Ayşe) est-il terminé?",
+        "answer": "Oui. iShe est un projet mené et terminé sous TÜBİTAK 1002-A (324S300). Le personnage Ayşe est le symbole de ce projet."
       },
       "q4": {
-        "question": "Que signifient les programmes de terrain?",
-        "answer": "Ce sont des zones pilotes/d'implémentation pour appliquer l'approche MAARS dans différentes villes et scénarios."
+        "question": "Qui est Ayşe?",
+        "answer": "Ayşe est l'assistant IA conversationnel du projet iShe. Conçu pour augmenter les interactions sociales des personnes âgées vivant seules et surveiller leur santé cognitive."
       },
       "q5": {
         "question": "Avec qui collaborez-vous?",
-        "answer": "Des études pilotes et des partenariats de recherche sont visés avec des institutions académiques, des gouvernements locaux, des institutions de santé et des équipes technologiques."
+        "answer": "Des études pilotes et des partenariats de recherche sont visés avec des institutions académiques (Université Ege, Université Dokuz Eylül, etc.), des gouvernements locaux, des institutions de santé et des équipes technologiques."
       }
     }
   },
@@ -188,6 +260,6 @@
   },
   "footer": {
     "rights": "Tous Droits Réservés",
-    "tagline": "Système Moderne Intelligent de Recherche et d'Orientation"
+    "tagline": "Système Moderne Avancé de Recherche Académique"
   }
 }
