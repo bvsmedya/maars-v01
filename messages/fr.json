@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "title": "MAARS",
+    "description": "Système Moderne Intelligent de Recherche et d'Orientation"
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "Qu'est-ce que MAARS?",
+    "modules": "Modules",
+    "programs": "Programmes",
+    "team": "Équipe",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "MAARS",
+    "subtitle": "Système Moderne Intelligent de Recherche et d'Orientation",
+    "description": "MAARS est un cadre de travail visant à produire des mesures, analyses et orientations dans les domaines de la santé et de la société en utilisant l'intelligence artificielle et des méthodes basées sur les données. L'objectif est de simplifier les problèmes complexes, de soutenir les bonnes décisions et de développer des modèles applicables.",
+    "cta": {
+      "about": "Qu'est-ce que MAARS?",
+      "modules": "Modules",
+      "programs": "Programmes",
+      "contact": "Contact"
+    }
+  },
+  "about": {
+    "title": "Qu'est-ce que MAARS?",
+    "description1": "MAARS (Système Moderne Intelligent de Recherche et d'Orientation) est une approche interdisciplinaire. À l'intersection de la santé, de l'intelligence artificielle et des politiques publiques; il transforme les processus de collecte de données, d'évaluation, de classification et d'aide à la décision en une structure systématique.",
+    "description2": "MAARS n'est pas un \"projet unique\"; c'est une architecture globale qui unifie différents projets et applications de terrain sous le même langage méthodologique.",
+    "keyMessage": "MAARS est une architecture méthodologique et systémique qui vise à transférer l'expérience acquise des projets terminés (ex. iShe) vers de nouveaux programmes et applications pilotes."
+  },
+  "whatWeDo": {
+    "title": "Que fait MAARS?",
+    "intro": "La fonction principale de MAARS est de transformer les données en \"connaissances\" et en \"orientations\".",
+    "items": {
+      "measure": {
+        "title": "Mesure",
+        "description": "Utilise une approche de mesure structurée pour identifier les besoins, les risques et les priorités."
+      },
+      "analyze": {
+        "title": "Analyse",
+        "description": "Convertit les données collectées en indicateurs significatifs; permet la comparaison et le suivi."
+      },
+      "guide": {
+        "title": "Produit des Orientations",
+        "description": "Développe des cadres de recommandations applicables aux niveaux individuel, institutionnel et sociétal."
+      },
+      "model": {
+        "title": "Conçoit des Modèles",
+        "description": "Produit des modèles et feuilles de route adaptés au terrain pouvant être testés par des applications pilotes."
+      }
+    }
+  },
+  "modules": {
+    "title": "Modules Principaux",
+    "subtitle": "Projets sous MAARS",
+    "items": {
+      "ishe": {
+        "title": "Project iShe",
+        "badge": "TÜBİTAK - Terminé",
+        "description": "iShe est une étude menée et terminée sous TÜBİTAK. Sous l'égide de MAARS, il se positionne comme un projet de référence démontrant l'application terrain de l'approche de mesure et d'orientation."
+      },
+      "terakki": {
+        "title": "Project Terakki",
+        "badge": "Actif",
+        "description": "Développement communautaire; produit des orientations en éducation, sensibilisation et renforcement des capacités."
+      },
+      "muasir": {
+        "title": "Project Muasır",
+        "badge": "Actif",
+        "description": "Lecture des systèmes contemporains: produit des cadres sur des sujets tels que la technologie, l'éthique, la gouvernance et la conception publique."
+      }
+    }
+  },
+  "programs": {
+    "title": "Programmes de Terrain",
+    "subtitle": "Projets d'implémentation",
+    "items": {
+      "istanbul": {
+        "title": "Réforme de la Santé Urbaine",
+        "location": "Istanbul",
+        "description": "Vise à concevoir un modèle de santé holistique axé sur le gouvernement local à l'échelle d'Istanbul."
+      },
+      "izmir": {
+        "title": "Campus Vivants",
+        "location": "Izmir",
+        "description": "Vise à développer un modèle de campus vivant axé sur le vieillissement actif et la santé des personnes âgées avec l'approche \"Université du Troisième Âge\" à Izmir."
+      },
+      "yozgat": {
+        "title": "Initiative Nationale IA",
+        "location": "Yozgat",
+        "description": "Plan d'action stratégique et feuille de route pour l'établissement d'un ministère avec l'objectif de leadership en IA."
+      }
+    }
+  },
+  "team": {
+    "title": "Groupe de Travail Académique",
+    "subtitle": "Laboratoire MAARS",
+    "description": "Le Groupe de Travail Académique MAARS est une équipe de recherche interdisciplinaire travaillant principalement sur les systèmes d'intelligence artificielle et les modèles d'application.",
+    "members": {
+      "ozgur": {
+        "name": "Prof. Assoc. Özgür Akşan",
+        "title": "Fondateur"
+      },
+      "asli": {
+        "name": "Prof. Assoc. Aslı Kılavuz",
+        "title": "Chercheur"
+      },
+      "feryal": {
+        "name": "Dr. Spec. Feryal Akşan, PhD",
+        "title": "Chercheur"
+      },
+      "sebnem": {
+        "name": "Prof. Assoc. Şebnem Bora",
+        "title": "Chercheur"
+      },
+      "yalcin": {
+        "name": "Prof. Yalçın Çebi",
+        "title": "Chercheur"
+      },
+      "hilal": {
+        "name": "Prof. Mehmet Hilal Özcanhan",
+        "title": "Chercheur"
+      }
+    }
+  },
+  "principles": {
+    "title": "Principes",
+    "subtitle": "L'approche MAARS suit ces principes",
+    "items": {
+      "human": {
+        "title": "Centré sur l'Humain",
+        "description": "Le résultat doit produire de la valeur pour la vie humaine."
+      },
+      "evidence": {
+        "title": "Basé sur les Preuves",
+        "description": "Travaille avec des indicateurs mesurables."
+      },
+      "modular": {
+        "title": "Modulaire",
+        "description": "Le système s'étend sans se décomposer à mesure que les projets grandissent."
+      },
+      "ethics": {
+        "title": "Sensibilité Éthique",
+        "description": "L'objectif est l'utilisation appropriée, pas la technologie."
+      },
+      "field": {
+        "title": "Adapté au Terrain",
+        "description": "Conception pilotable et applicable."
+      }
+    }
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "items": {
+      "q1": {
+        "question": "MAARS est-il une institution ou un projet?",
+        "answer": "MAARS est une approche système globale qui unifie plusieurs projets et programmes sous le même cadre méthodologique."
+      },
+      "q2": {
+        "question": "Que sont iShe / Terakki / Muasır?",
+        "answer": "Ce sont les modules principaux de MAARS. Chacun se concentre sur un besoin différent et fournit un soutien \"méthodologique\" aux programmes de terrain."
+      },
+      "q3": {
+        "question": "iShe est-il terminé?",
+        "answer": "Oui. iShe est un projet mené et terminé sous TÜBİTAK. Il existe au sein de MAARS comme une \"étude de référence terminée\" et fournit une base méthodologique pour les nouveaux programmes."
+      },
+      "q4": {
+        "question": "Que signifient les programmes de terrain?",
+        "answer": "Ce sont des zones pilotes/d'implémentation pour appliquer l'approche MAARS dans différentes villes et scénarios."
+      },
+      "q5": {
+        "question": "Avec qui collaborez-vous?",
+        "answer": "Des études pilotes et des partenariats de recherche sont visés avec des institutions académiques, des gouvernements locaux, des institutions de santé et des équipes technologiques."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "MAARS est un système vivant qui se développe grâce aux applications pilotes et aux collaborations de recherche. Vous pouvez nous contacter pour des collaborations institutionnelles et des projets communs.",
+    "email": "Email",
+    "form": {
+      "name": "Votre Nom",
+      "email": "Email",
+      "subject": "Sujet",
+      "message": "Votre Message",
+      "send": "Envoyer"
+    }
+  },
+  "footer": {
+    "rights": "Tous Droits Réservés",
+    "tagline": "Système Moderne Intelligent de Recherche et d'Orientation"
+  }
+}

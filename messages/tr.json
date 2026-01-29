@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "title": "MAARS",
+    "description": "Modern Akıllı Araştırma ve Rehberlik Sistemi"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "MAARS Nedir?",
+    "modules": "Modüller",
+    "programs": "Programlar",
+    "team": "Ekip",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title": "MAARS",
+    "subtitle": "Modern Akıllı Araştırma ve Rehberlik Sistemi",
+    "description": "MAARS, yapay zekâ ve veri temelli yöntemlerle sağlık ve toplum alanında ölçüm, analiz ve rehberlik üretmeyi hedefleyen bir çalışma çerçevesidir. Amaç; karmaşık problemleri sadeleştirmek, doğru kararları desteklemek ve uygulanabilir modeller geliştirmektir.",
+    "cta": {
+      "about": "MAARS Nedir?",
+      "modules": "Modüller",
+      "programs": "Programlar",
+      "contact": "İletişim"
+    }
+  },
+  "about": {
+    "title": "MAARS Nedir?",
+    "description1": "MAARS (Modern Akıllı Araştırma ve Rehberlik Sistemi), disiplinler arası bir yaklaşımın adıdır. Sağlık, yapay zekâ ve kamu politikası kesişiminde; veri toplama, değerlendirme, sınıflandırma ve karar destek süreçlerini sistemli bir yapıya dönüştürür.",
+    "description2": "MAARS bir \"tek proje\" değil; farklı projeleri ve saha uygulamalarını aynı yöntem dili altında birleştiren üst bir mimaridir.",
+    "keyMessage": "MAARS, tamamlanmış projelerden (ör. iShe) elde edilen deneyimi, yeni programlara ve pilot uygulamalara taşımayı hedefleyen bir yöntem ve sistem mimarisidir."
+  },
+  "whatWeDo": {
+    "title": "MAARS Ne Yapar?",
+    "intro": "MAARS'ın temel işlevi, veriyi \"bilgiye\" ve \"rehberliğe\" dönüştürmektir.",
+    "items": {
+      "measure": {
+        "title": "Ölçer",
+        "description": "İhtiyaçları, riskleri ve öncelikleri belirlemek için yapılandırılmış ölçüm yaklaşımı kullanır."
+      },
+      "analyze": {
+        "title": "Analiz Eder",
+        "description": "Toplanan veriyi anlamlı göstergelere çevirir; karşılaştırma ve izleme imkânı sağlar."
+      },
+      "guide": {
+        "title": "Rehberlik Üretir",
+        "description": "Birey, kurum ve toplum ölçeğinde uygulanabilir öneri çerçeveleri geliştirir."
+      },
+      "model": {
+        "title": "Model Tasarlar",
+        "description": "Pilot uygulamalarla test edilebilecek sahaya uygun model ve yol haritaları üretir."
+      }
+    }
+  },
+  "modules": {
+    "title": "Çekirdek Modüller",
+    "subtitle": "MAARS'a bağlı projeler",
+    "items": {
+      "ishe": {
+        "title": "Project iShe",
+        "badge": "TÜBİTAK - Tamamlandı",
+        "description": "iShe, TÜBİTAK kapsamında yürütülmüş ve tamamlanmış bir çalışmadır. MAARS çatısı altında, ölçüm ve rehberlik yaklaşımının saha karşılığını gösteren bir referans proje olarak konumlanır."
+      },
+      "terakki": {
+        "title": "Project Terakki",
+        "badge": "Aktif",
+        "description": "Toplum temelli gelişim; eğitim, farkındalık ve kapasite artırma ekseninde rehberlik üretir."
+      },
+      "muasir": {
+        "title": "Project Muasır",
+        "badge": "Aktif",
+        "description": "Çağdaş sistem okuması: teknoloji, etik, yönetişim ve kamu tasarımı gibi başlıklarda çerçeve üretir."
+      }
+    }
+  },
+  "programs": {
+    "title": "Saha Programları",
+    "subtitle": "Uygulama projeleri",
+    "items": {
+      "istanbul": {
+        "title": "Kent Sağlık Reformu",
+        "location": "İstanbul",
+        "description": "İstanbul ölçeğinde, yerel yönetim odaklı bütüncül sağlık modeli tasarımını hedefler."
+      },
+      "izmir": {
+        "title": "Yaşayan Kampüsler",
+        "location": "İzmir",
+        "description": "İzmir'de \"Üçüncü Yaş Üniversitesi\" yaklaşımıyla aktif yaşlanma ve yaşlı sağlığı odaklı yaşayan bir kampüs modeli geliştirmeyi amaçlar."
+      },
+      "yozgat": {
+        "title": "Milli Yapay Zekâ Hamlesi",
+        "location": "Yozgat",
+        "description": "Yapay zekâ liderliği hedefiyle stratejik hamle planı ve bakanlık kuruluş yol haritası çalışması."
+      }
+    }
+  },
+  "team": {
+    "title": "Akademik Çalışma Grubu",
+    "subtitle": "MAARS Laboratuvarı",
+    "description": "MAARS Akademik Çalışma Grubu, ağırlıklı olarak yapay zekâ sistemleri ve uygulama modelleri üzerine çalışan disiplinler arası bir araştırma ekibidir.",
+    "members": {
+      "ozgur": {
+        "name": "Doç. Dr. Özgür Akşan",
+        "title": "Kurucu"
+      },
+      "asli": {
+        "name": "Doç. Dr. Aslı Kılavuz",
+        "title": "Araştırmacı"
+      },
+      "feryal": {
+        "name": "Uzm. Dr. Feryal Akşan, PhD",
+        "title": "Araştırmacı"
+      },
+      "sebnem": {
+        "name": "Doç. Dr. Şebnem Bora",
+        "title": "Araştırmacı"
+      },
+      "yalcin": {
+        "name": "Prof. Dr. Yalçın Çebi",
+        "title": "Araştırmacı"
+      },
+      "hilal": {
+        "name": "Prof. Dr. Mehmet Hilal Özcanhan",
+        "title": "Araştırmacı"
+      }
+    }
+  },
+  "principles": {
+    "title": "İlkeler",
+    "subtitle": "MAARS yaklaşımı şu ilkelerle ilerler",
+    "items": {
+      "human": {
+        "title": "İnsan Merkezli",
+        "description": "Çıktı, insan hayatına değer üretmelidir."
+      },
+      "evidence": {
+        "title": "Kanıta Dayalı",
+        "description": "Ölçülebilir göstergelerle çalışır."
+      },
+      "modular": {
+        "title": "Modüler",
+        "description": "Projeler büyüdükçe sistem dağılmadan genişler."
+      },
+      "ethics": {
+        "title": "Etik Duyarlılık",
+        "description": "Amaç teknoloji değil, doğru kullanım."
+      },
+      "field": {
+        "title": "Sahaya Uygunluk",
+        "description": "Pilotlanabilir, uygulanabilir tasarım."
+      }
+    }
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "items": {
+      "q1": {
+        "question": "MAARS bir kurum mu, proje mi?",
+        "answer": "MAARS, birden fazla projeyi ve programı aynı yöntem çerçevesinde birleştiren üst bir sistem yaklaşımıdır."
+      },
+      "q2": {
+        "question": "iShe / Terakki / Muasır ne?",
+        "answer": "MAARS'ın çekirdek modülleridir. Her biri farklı bir ihtiyaca odaklanır ve saha programlarına \"yöntem\" desteği verir."
+      },
+      "q3": {
+        "question": "iShe bitti mi?",
+        "answer": "Evet. iShe, TÜBİTAK kapsamında yürütülmüş ve tamamlanmış bir projedir. MAARS içinde \"tamamlanmış referans çalışma\" olarak yer alır ve yeni programlara yöntemsel zemin sağlar."
+      },
+      "q4": {
+        "question": "Saha programları ne anlama geliyor?",
+        "answer": "MAARS'ın geliştirdiği yaklaşımın farklı şehir ve senaryolarda uygulanmasına yönelik pilot/uygulama alanlarıdır."
+      },
+      "q5": {
+        "question": "Kimlerle iş birliği yapılır?",
+        "answer": "Akademik kurumlar, yerel yönetimler, sağlık kurumları ve teknoloji ekipleriyle pilot çalışma ve araştırma ortaklıkları hedeflenir."
+      }
+    }
+  },
+  "contact": {
+    "title": "İletişim",
+    "description": "MAARS, pilot uygulamalar ve araştırma iş birlikleriyle gelişen yaşayan bir sistemdir. Kurumsal iş birlikleri ve ortak projeler için iletişime geçebilirsiniz.",
+    "email": "E-posta",
+    "form": {
+      "name": "Adınız",
+      "email": "E-posta",
+      "subject": "Konu",
+      "message": "Mesajınız",
+      "send": "Gönder"
+    }
+  },
+  "footer": {
+    "rights": "Tüm Hakları Saklıdır",
+    "tagline": "Modern Akıllı Araştırma ve Rehberlik Sistemi"
+  }
+}

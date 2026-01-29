@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "title": "MAARS",
+    "description": "Modern Smart Research and Guidance System"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "What is MAARS?",
+    "modules": "Modules",
+    "programs": "Programs",
+    "team": "Team",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "MAARS",
+    "subtitle": "Modern Smart Research and Guidance System",
+    "description": "MAARS is a working framework that aims to produce measurement, analysis, and guidance in health and society using artificial intelligence and data-driven methods. The goal is to simplify complex problems, support sound decisions, and develop applicable models.",
+    "cta": {
+      "about": "What is MAARS?",
+      "modules": "Modules",
+      "programs": "Programs",
+      "contact": "Contact"
+    }
+  },
+  "about": {
+    "title": "What is MAARS?",
+    "description1": "MAARS (Modern Smart Research and Guidance System) is an interdisciplinary approach. At the intersection of health, artificial intelligence, and public policy; it transforms data collection, evaluation, classification, and decision support processes into a systematic structure.",
+    "description2": "MAARS is not a \"single project\"; it is an overarching architecture that unifies different projects and field applications under the same methodological language.",
+    "keyMessage": "MAARS is a methodological and system architecture that aims to transfer the experience gained from completed projects (e.g., iShe) to new programs and pilot applications."
+  },
+  "whatWeDo": {
+    "title": "What Does MAARS Do?",
+    "intro": "The core function of MAARS is to transform data into \"knowledge\" and \"guidance.\"",
+    "items": {
+      "measure": {
+        "title": "Measures",
+        "description": "Uses a structured measurement approach to identify needs, risks, and priorities."
+      },
+      "analyze": {
+        "title": "Analyzes",
+        "description": "Converts collected data into meaningful indicators; enables comparison and monitoring."
+      },
+      "guide": {
+        "title": "Produces Guidance",
+        "description": "Develops applicable recommendation frameworks at individual, institutional, and societal levels."
+      },
+      "model": {
+        "title": "Designs Models",
+        "description": "Produces field-appropriate models and roadmaps that can be tested through pilot applications."
+      }
+    }
+  },
+  "modules": {
+    "title": "Core Modules",
+    "subtitle": "Projects under MAARS",
+    "items": {
+      "ishe": {
+        "title": "Project iShe",
+        "badge": "TÜBİTAK - Completed",
+        "description": "iShe is a study conducted and completed under TÜBİTAK. Under the MAARS umbrella, it stands as a reference project demonstrating the field application of the measurement and guidance approach."
+      },
+      "terakki": {
+        "title": "Project Terakki",
+        "badge": "Active",
+        "description": "Community-based development; produces guidance in education, awareness, and capacity building."
+      },
+      "muasir": {
+        "title": "Project Muasır",
+        "badge": "Active",
+        "description": "Contemporary system reading: produces frameworks on topics such as technology, ethics, governance, and public design."
+      }
+    }
+  },
+  "programs": {
+    "title": "Field Programs",
+    "subtitle": "Implementation projects",
+    "items": {
+      "istanbul": {
+        "title": "Urban Health Reform",
+        "location": "Istanbul",
+        "description": "Aims to design a holistic health model focused on local government at Istanbul scale."
+      },
+      "izmir": {
+        "title": "Living Campuses",
+        "location": "Izmir",
+        "description": "Aims to develop a living campus model focused on active aging and elderly health with the \"Third Age University\" approach in Izmir."
+      },
+      "yozgat": {
+        "title": "National AI Initiative",
+        "location": "Yozgat",
+        "description": "Strategic action plan and ministry establishment roadmap study with the goal of AI leadership."
+      }
+    }
+  },
+  "team": {
+    "title": "Academic Working Group",
+    "subtitle": "MAARS Laboratory",
+    "description": "The MAARS Academic Working Group is an interdisciplinary research team working primarily on artificial intelligence systems and application models.",
+    "members": {
+      "ozgur": {
+        "name": "Assoc. Prof. Özgür Akşan",
+        "title": "Founder"
+      },
+      "asli": {
+        "name": "Assoc. Prof. Aslı Kılavuz",
+        "title": "Researcher"
+      },
+      "feryal": {
+        "name": "Spec. Dr. Feryal Akşan, PhD",
+        "title": "Researcher"
+      },
+      "sebnem": {
+        "name": "Assoc. Prof. Şebnem Bora",
+        "title": "Researcher"
+      },
+      "yalcin": {
+        "name": "Prof. Yalçın Çebi",
+        "title": "Researcher"
+      },
+      "hilal": {
+        "name": "Prof. Mehmet Hilal Özcanhan",
+        "title": "Researcher"
+      }
+    }
+  },
+  "principles": {
+    "title": "Principles",
+    "subtitle": "MAARS approach follows these principles",
+    "items": {
+      "human": {
+        "title": "Human-Centered",
+        "description": "Output must produce value for human life."
+      },
+      "evidence": {
+        "title": "Evidence-Based",
+        "description": "Works with measurable indicators."
+      },
+      "modular": {
+        "title": "Modular",
+        "description": "System expands without breaking down as projects grow."
+      },
+      "ethics": {
+        "title": "Ethical Sensitivity",
+        "description": "The goal is proper use, not technology."
+      },
+      "field": {
+        "title": "Field Suitability",
+        "description": "Pilotable, applicable design."
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": {
+      "q1": {
+        "question": "Is MAARS an institution or a project?",
+        "answer": "MAARS is an overarching system approach that unifies multiple projects and programs under the same methodological framework."
+      },
+      "q2": {
+        "question": "What are iShe / Terakki / Muasır?",
+        "answer": "They are core modules of MAARS. Each focuses on a different need and provides \"methodology\" support to field programs."
+      },
+      "q3": {
+        "question": "Is iShe finished?",
+        "answer": "Yes. iShe is a project conducted and completed under TÜBİTAK. It exists within MAARS as a \"completed reference study\" and provides methodological foundation for new programs."
+      },
+      "q4": {
+        "question": "What do field programs mean?",
+        "answer": "They are pilot/implementation areas for applying the MAARS approach in different cities and scenarios."
+      },
+      "q5": {
+        "question": "Who do you collaborate with?",
+        "answer": "Pilot studies and research partnerships are targeted with academic institutions, local governments, health institutions, and technology teams."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "MAARS is a living system that develops through pilot applications and research collaborations. You can contact us for institutional collaborations and joint projects.",
+    "email": "Email",
+    "form": {
+      "name": "Your Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Your Message",
+      "send": "Send"
+    }
+  },
+  "footer": {
+    "rights": "All Rights Reserved",
+    "tagline": "Modern Smart Research and Guidance System"
+  }
+}
