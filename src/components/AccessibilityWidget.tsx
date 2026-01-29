@@ -137,6 +137,7 @@ export default function AccessibilityWidget() {
           haptic(20)
           setIsOpen(!isOpen)
         }}
+        data-accessibility-widget="true"
         className="fixed bottom-6 left-6 z-[80] bg-blue-600 text-white p-3.5 rounded-full shadow-lg hover:bg-blue-700 transition-all hover:scale-110 group"
         aria-label={t('title')}
         title={t('title')}

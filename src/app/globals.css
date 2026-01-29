@@ -133,11 +133,55 @@ body.high-contrast img {
 }
 
 /* Exclude accessibility widget from high contrast */
-body.high-contrast [data-accessibility-widget="true"],
+body.high-contrast [data-accessibility-widget="true"] {
+  background: #ffffff !important;
+  color: #1f2937 !important;
+  border-color: #e5e7eb !important;
+  filter: none !important;
+}
+
 body.high-contrast [data-accessibility-widget="true"] * {
-  background: initial !important;
-  color: initial !important;
-  border-color: initial !important;
+  background: unset !important;
+  color: unset !important;
+  border-color: unset !important;
+  filter: none !important;
+}
+
+/* Accessibility widget specific overrides */
+body.high-contrast [data-accessibility-widget="true"] button {
+  background: unset !important;
+  color: unset !important;
+}
+
+body.high-contrast [data-accessibility-widget="true"] .bg-blue-600 {
+  background: #2563eb !important;
+  color: #ffffff !important;
+}
+
+body.high-contrast [data-accessibility-widget="true"] .bg-white {
+  background: #ffffff !important;
+}
+
+body.high-contrast [data-accessibility-widget="true"] .text-white {
+  color: #ffffff !important;
+}
+
+body.high-contrast [data-accessibility-widget="true"] .bg-gray-50,
+body.high-contrast [data-accessibility-widget="true"] [style*="background: rgb(249, 250, 251)"] {
+  background: #f9fafb !important;
+}
+
+body.high-contrast [data-accessibility-widget="true"] [style*="color: rgb(107, 114, 128)"] {
+  color: #6b7280 !important;
+}
+
+body.high-contrast [data-accessibility-widget="true"] [style*="color: rgb(75, 85, 99)"] {
+  color: #4b5563 !important;
+}
+
+body.high-contrast [data-accessibility-widget="true"] [style*="background: rgb(59, 130, 246)"] {
+  background: #3b82f6 !important;
+  color: #ffffff !important;
 }
 
 /* Highlight Links */
