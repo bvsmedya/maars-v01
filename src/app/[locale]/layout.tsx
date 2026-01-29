@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     siteName: 'MAARS',
     images: [
       {
-        url: 'https://maars.tr/og-image.png',
+        url: 'https://maars.tr/og-image.jpg',
         width: 1200,
         height: 630,
         alt: 'MAARS - Modern Academic Advisory Research System',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'MAARS - Modern Academic Advisory Research System',
     description: 'Digital health platform featuring iShe (Ayşe) AI assistant for elderly care, TERAKKİ wearables, and MUASIR health kiosks.',
-    images: ['https://maars.tr/og-image.png'],
+    images: ['https://maars.tr/og-image.jpg'],
   },
   robots: {
     index: true,
