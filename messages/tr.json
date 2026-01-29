@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "MAARS",
-    "description": "Modern Akıllı Araştırma ve Rehberlik Sistemi"
+    "description": "Modern Akademik Araştırma ve Rehberlik Sistemi"
   },
   "slider": {
     "mars": {
@@ -48,7 +48,7 @@
   },
   "hero": {
     "title": "MAARS",
-    "subtitle": "Modern Akıllı Araştırma ve Rehberlik Sistemi",
+    "subtitle": "Modern Akademik Araştırma ve Rehberlik Sistemi",
     "description": "MAARS, bireylerin sosyal, bilişsel ve fiziksel sağlıklarını desteklemek için dijital sağlık çözümleri geliştiren bir platformdur. Yenilikçi teknolojileri ve insan odaklı yaklaşımıyla, toplum sağlığını artırmayı ve sağlık hizmetlerine erişimi kolaylaştırmayı hedefler.",
     "cta": {
       "about": "MAARS Nedir?",
@@ -59,7 +59,7 @@
   },
   "about": {
     "title": "MAARS Nedir?",
-    "description1": "MAARS (Modern Akıllı Araştırma ve Rehberlik Sistemi), dijital sağlık çözümleri geliştirmeye odaklanan, yenilikçi teknolojileri ve insan odaklı yaklaşımı birleştiren bir ekosistemdir. Temel hedefi, toplumun sosyal, bilişsel ve fiziksel sağlığını korumak ve güçlendirmektir.",
+    "description1": "MAARS (Modern Akademik Araştırma ve Rehberlik Sistemi), dijital sağlık çözümleri geliştirmeye odaklanan, yenilikçi teknolojileri ve insan odaklı yaklaşımı birleştiren bir ekosistemdir. Temel hedefi, toplumun sosyal, bilişsel ve fiziksel sağlığını korumak ve güçlendirmektir.",
     "description2": "MAARS bir \"tek proje\" değil; farklı projeleri ve saha uygulamalarını aynı yöntem dili altında birleştiren üst bir mimaridir. Platform, üç ana projeden oluşur: iShe, TERAKKİ ve MUASIR.",
     "keyMessage": "MAARS, tamamlanmış projelerden elde edilen deneyimi, yeni programlara ve pilot uygulamalara taşımayı hedefleyen bir yöntem ve sistem mimarisidir."
   },
@@ -260,7 +260,7 @@
   },
   "footer": {
     "rights": "Tüm Hakları Saklıdır",
-    "tagline": "Modern Akıllı Araştırma ve Rehberlik Sistemi"
+    "tagline": "Modern Akademik Araştırma ve Rehberlik Sistemi"
   },
   "accessibility": {
     "title": "Erişilebilirlik",

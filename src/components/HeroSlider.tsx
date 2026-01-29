@@ -5,35 +5,35 @@ import { useTranslations } from 'next-intl';
 
 const slides = [
   {
-    image: '/images/Slider/maars-mars-colony.jpg',
+    image: '/images/slider/maars-mars-colony.jpg',
     titleKey: 'mars',
   },
   {
-    image: '/images/Slider/ishe-ayse-seaside.jpg',
+    image: '/images/slider/ishe-ayse-seaside.jpg',
     titleKey: 'ishe',
   },
   {
-    image: '/images/Slider/ai-brain-nlp.jpg',
+    image: '/images/slider/ai-brain-nlp.jpg',
     titleKey: 'ai',
   },
   {
-    image: '/images/Slider/terakki-wearables.jpg',
+    image: '/images/slider/terakki-wearables.jpg',
     titleKey: 'terakki',
   },
   {
-    image: '/images/Slider/muasir-health-kiosk.jpg',
+    image: '/images/slider/muasir-health-kiosk.jpg',
     titleKey: 'muasir',
   },
   {
-    image: '/images/Slider/academic-research-lab.jpg',
+    image: '/images/slider/academic-research-lab.jpg',
     titleKey: 'research',
   },
   {
-    image: '/images/Slider/team-mars-station.jpg',
+    image: '/images/slider/team-mars-station.jpg',
     titleKey: 'team',
   },
   {
-    image: '/images/Slider/team-ataturk-monument.jpg',
+    image: '/images/slider/team-ataturk-monument.jpg',
     titleKey: 'ataturk',
   },
 ];

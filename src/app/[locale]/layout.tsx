@@ -9,7 +9,7 @@ import AccessibilityWidget from '@/components/AccessibilityWidget';
 import '../globals.css';
 
 export const metadata: Metadata = {
-  title: 'MAARS - Modern Akıllı Araştırma ve Rehberlik Sistemi',
+  title: 'MAARS - Modern Akademik Araştırma ve Rehberlik Sistemi',
   description: 'MAARS, bireylerin sosyal, bilişsel ve fiziksel sağlıklarını desteklemek için dijital sağlık çözümleri geliştiren bir platformdur. iShe, TERAKKİ ve MUASIR projelerinden oluşur.',
   keywords: ['MAARS', 'dijital sağlık', 'iShe', 'Ayşe', 'TERAKKİ', 'MUASIR', 'yapay zeka', 'TÜBİTAK', 'yaşlı sağlığı', 'bilişsel sağlık'],
   authors: [{ name: 'MAARS' }],
