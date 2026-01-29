@@ -80,7 +80,7 @@ export default function HeroSlider() {
           <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/20 to-transparent" />
 
           {/* Content */}
-          <div className="absolute bottom-0 left-0 right-0 p-8 md:p-12 lg:p-16 text-white">
+          <div className="absolute bottom-0 left-0 right-0 p-8 md:p-12 lg:p-16 pb-16 md:pb-20 text-white pointer-events-none">
             <div className="max-w-4xl mx-auto">
               <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 drop-shadow-lg">
                 {t(`${slide.titleKey}.title`)}
