@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "MAARS",
-    "description": "Système Moderne Avancé de Recherche Académique"
+    "description": "Système Moderne de Recherche et Conseil Académique"
   },
   "slider": {
     "mars": {
@@ -48,7 +48,7 @@
   },
   "hero": {
     "title": "MAARS",
-    "subtitle": "Système Moderne Avancé de Recherche Académique",
+    "subtitle": "Système Moderne de Recherche et Conseil Académique",
     "description": "MAARS est une plateforme qui développe des solutions de santé numérique pour soutenir la santé sociale, cognitive et physique des individus. Avec ses technologies innovantes et son approche centrée sur l'humain, elle vise à améliorer la santé publique et à faciliter l'accès aux services de santé.",
     "cta": {
       "about": "Qu'est-ce que MAARS?",
@@ -59,7 +59,7 @@
   },
   "about": {
     "title": "Qu'est-ce que MAARS?",
-    "description1": "MAARS (Système Moderne Avancé de Recherche Académique) est un écosystème axé sur le développement de solutions de santé numérique, combinant des technologies innovantes avec une approche centrée sur l'humain. Son objectif principal est de protéger et de renforcer la santé sociale, cognitive et physique de la société.",
+    "description1": "MAARS (Système Moderne de Recherche et Conseil Académique) est un écosystème axé sur le développement de solutions de santé numérique, combinant des technologies innovantes avec une approche centrée sur l'humain. Son objectif principal est de protéger et de renforcer la santé sociale, cognitive et physique de la société.",
     "description2": "MAARS n'est pas un \"projet unique\"; c'est une architecture globale qui unifie différents projets et applications de terrain sous le même langage méthodologique. La plateforme se compose de trois projets principaux: iShe, TERAKKİ et MUASIR.",
     "keyMessage": "MAARS est une architecture méthodologique et systémique qui vise à transférer l'expérience acquise des projets terminés vers de nouveaux programmes et applications pilotes."
   },
@@ -155,7 +155,7 @@
       "izmir": {
         "title": "Campus Vivants",
         "location": "Izmir",
-        "description": "Vise à développer un modèle de campus vivant axé sur le vieillissement actif et la santé des personnes âgées avec l'approche \"Université du Troisième Âge\" à Izmir."
+        "description": "Vise à développer un modèle de campus vivant axé sur la santé des personnes âgées avec l'approche \"Vieillissement Actif\" à Izmir."
       },
       "yozgat": {
         "title": "Initiative Nationale IA",
@@ -260,7 +260,7 @@
   },
   "footer": {
     "rights": "Tous Droits Réservés",
-    "tagline": "Système Moderne Avancé de Recherche Académique"
+    "tagline": "Système Moderne de Recherche et Conseil Académique"
   },
   "accessibility": {
     "title": "Accessibilité",

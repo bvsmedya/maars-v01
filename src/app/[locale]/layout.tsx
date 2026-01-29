@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   keywords: ['MAARS', 'dijital sağlık', 'iShe', 'Ayşe', 'TERAKKİ', 'MUASIR', 'yapay zeka', 'TÜBİTAK', 'yaşlı sağlığı', 'bilişsel sağlık'],
   authors: [{ name: 'MAARS' }],
   openGraph: {
-    title: 'MAARS - Modern Advanced Academic Research System',
+    title: 'MAARS - Modern Academic Advisory Research System',
     description: 'MAARS is a platform that develops digital health solutions to support social, cognitive, and physical health. Featuring iShe, TERAKKİ, and MUASIR projects.',
     url: 'https://maars.tr',
     siteName: 'MAARS',
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
         url: 'https://maars.tr/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'MAARS - Modern Advanced Academic Research System',
+        alt: 'MAARS - Modern Academic Advisory Research System',
       },
     ],
     locale: 'tr_TR',
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'MAARS - Modern Advanced Academic Research System',
+    title: 'MAARS - Modern Academic Advisory Research System',
     description: 'Digital health platform featuring iShe (Ayşe) AI assistant for elderly care, TERAKKİ wearables, and MUASIR health kiosks.',
     images: ['https://maars.tr/og-image.png'],
   },

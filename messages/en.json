@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "MAARS",
-    "description": "Modern Advanced Academic Research System"
+    "description": "Modern Academic Advisory Research System"
   },
   "slider": {
     "mars": {
@@ -48,7 +48,7 @@
   },
   "hero": {
     "title": "MAARS",
-    "subtitle": "Modern Advanced Academic Research System",
+    "subtitle": "Modern Academic Advisory Research System",
     "description": "MAARS is a platform that develops digital health solutions to support individuals' social, cognitive, and physical health. With its innovative technologies and human-centered approach, it aims to improve public health and facilitate access to healthcare services.",
     "cta": {
       "about": "What is MAARS?",
@@ -59,7 +59,7 @@
   },
   "about": {
     "title": "What is MAARS?",
-    "description1": "MAARS (Modern Advanced Academic Research System) is an ecosystem that focuses on developing digital health solutions, combining innovative technologies with a human-centered approach. Its primary goal is to protect and strengthen the social, cognitive, and physical health of society.",
+    "description1": "MAARS (Modern Academic Advisory Research System) is an ecosystem that focuses on developing digital health solutions, combining innovative technologies with a human-centered approach. Its primary goal is to protect and strengthen the social, cognitive, and physical health of society.",
     "description2": "MAARS is not a \"single project\"; it is an overarching architecture that unifies different projects and field applications under the same methodological language. The platform consists of three main projects: iShe, TERAKKİ, and MUASIR.",
     "keyMessage": "MAARS is a methodological and system architecture that aims to transfer the experience gained from completed projects to new programs and pilot applications."
   },
@@ -155,7 +155,7 @@
       "izmir": {
         "title": "Living Campuses",
         "location": "Izmir",
-        "description": "Aims to develop a living campus model focused on active aging and elderly health with the \"Third Age University\" approach in Izmir."
+        "description": "Aims to develop a living campus model focused on elderly health with the \"Active Aging\" approach in Izmir."
       },
       "yozgat": {
         "title": "National AI Initiative",
@@ -260,7 +260,7 @@
   },
   "footer": {
     "rights": "All Rights Reserved",
-    "tagline": "Modern Advanced Academic Research System"
+    "tagline": "Modern Academic Advisory Research System"
   },
   "accessibility": {
     "title": "Accessibility",
